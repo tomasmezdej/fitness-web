@@ -1,3 +1,9 @@
 {
-  "nuxt.isNuxtApp": false
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "nuxt.isNuxtApp": false,
 }
